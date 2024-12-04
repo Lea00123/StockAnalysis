@@ -1,0 +1,98 @@
+﻿[
+    {
+        "ISIN": "US0378331005",
+        "Country": "US",
+        "Ticker": "AAPL",
+        "MarketCap": 2800000000000
+    },
+    {
+        "ISIN": "US0378331005",
+        "Country": "UK",
+        "Ticker": "AAPL",
+        "MarketCap": 2801000000000
+    },
+    {
+        "ISIN": "US5949181045",
+        "Country": "US",
+        "Ticker": "MSFT",
+        "MarketCap": 2500000000000
+    },
+    {
+        "ISIN": "US5949181045",
+        "Country": "EU",
+        "Ticker": "MSFT",
+        "MarketCap": 2500500000000
+    },
+    {
+        "ISIN": "US02079K3059",
+        "Country": "US",
+        "Ticker": "GOOG",
+        "MarketCap": 160000000
+    },
+    {
+        "ISIN": "US02079K3059",
+        "Country": "UK",
+        "Ticker": "GOOG",
+        "MarketCap": 160100000
+    },
+    {
+        "ISIN": "US30303M1027",
+        "Country": "US",
+        "Ticker": "AMZN",
+        "MarketCap": 190000000
+    },
+    {
+        "ISIN": "US0231351067",
+        "Country": "US",
+        "Ticker": "NFLX",
+        "MarketCap": 470000000
+    },
+    {
+        "ISIN": "US6541061031",
+        "Country": "US",
+        "Ticker": "INTC",
+        "MarketCap": 2200000000
+    },
+    {
+        "ISIN": "US4567881234",
+        "Country": "US",
+        "Ticker": "TSLA",
+        "MarketCap": 8000000000
+    },
+    {
+        "ISIN": "US4567881234",
+        "Country": "UK",
+        "Ticker": "TSLA",
+        "MarketCap": 8100000000
+    },
+    {
+        "ISIN": "US7891234567",
+        "Country": "US",
+        "Ticker": "FB",
+        "MarketCap": 880000000
+    },
+    {
+        "ISIN": "US7891234567",
+        "Country": "JP",
+        "Ticker": "FB",
+        "MarketCap": 8900000000
+    },
+    {
+        "ISIN": "US7654321011",
+        "Country": "US",
+        "Ticker": "NVDA",
+        "MarketCap": 700000000
+    },
+    {
+        "ISIN": "US7654321011",
+        "Country": "UK",
+        "Ticker": "NVDA",
+        "MarketCap": 710000000
+    },
+    {
+        "ISIN": "US9837894321",
+        "Country": "US",
+        "Ticker": "BABA",
+        "MarketCap": 580000000
+    }
+]
